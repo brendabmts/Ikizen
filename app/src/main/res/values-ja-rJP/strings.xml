@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IKIGAI app</string>
+    <string name="about">アプリについて</string>
+    <string name="welcome">いきがいへようこそ</string>
+    <string name="title_line_width_dialog">線サイズを選択</string>
+    <string name="title_color_dialog">" あなたの色を選んでください"</string>
+    <string name="start">開始</string>
+    <string name="sob_iki">" Ikigaiアプリは、ユーザーに自分のIkigaiを入手するためのシンプルで素早い方法を提示します。"</string>
+    <string name="sig_ikigai">" いきがいは「生きる理由」に近い意味の日本語の単語です。通常、図形はそれらの間の交差のすべての可能性を持つ4つの円で構成されています "</string>
+    <string name="permission_explanation">" 画像を保存するには、アプリに保存権限が必要です。"</string>
+    <string name="pay">支払い</string>
+    <string name="o_ikigai_app">" いきがいアプリ"</string>
+    <string name="need">必要です</string>
+    <string name="message_saved">" 画像をギャラリーに保存しました。"</string>
+    <string name="message_error_saving">画像の保存中にエラーが発生しました。</string>
+    <string name="message_error_printing">" お使いのデバイスは印刷機能をサポートしていません。"</string>
+    <string name="message_erase">" 図面を削除しますか？"</string>
+    <string name="mas_o_que_o_ikigai">しかし、いきものは何ですか？</string>
+    <string name="man_mon">" 手動でいきがい"</string>
+    <string name="love">" 愛してる"</string>
+    <string name="line_imageview_description">線の太さが表示されます</string>
+    <string name="label_red">赤</string>
+    <string name="label_green">" グリーン"</string>
+    <string name="label_blue">"ブルー "</string>
+    <string name="label_alpha" translatable="false">アルファ</string>
+    <string name="initial_msg">" 今あなたのいきがいを発見！"</string>
+    <string name="initial_help">" スタートボタンをクリックすると、ikigaiをマウントする方法が2つあります。自動マウント：アプリ自体が4つのサークルを作成します。手動マウント：各円の色を選択して、各円を手動で入力できます。始めましょうか。"</string>
+    <string name="exp_ikigai">あなたのいきがいを手に入れるには、まず4つの円を描くことから始めます。描画したら、他の円と交差していない各円のフィールドに入力する必要があります。充填は次のようになります。 - あなたは何が好きですか？ 「世界は何を必要としていますか？」 「あなたは何のために報酬を得ることができますか？」 「何が得意？」これが行われると、人は自分が何であるかを発見します。 - 彼らの使命 - 彼らの職業 - 彼らの職業 - 彼らの情熱。 3つの円の交点は、人々が持っているかもしれない人生における不満の動機を表していることに注意してください。満腹感を見つけるために、彼らは行方不明の円を考慮しなければならず、彼らの生きがいを生んでいます。</string>
+    <string name="good">" 良い"</string>
+    <string name="entendi">" 手に入れた！"</string>
+    <string name="EN">JP</string>
+    <string name="confirm">" 確認する"</string>
+    <string name="como_gostaria">" いかがですか"</string>
+    <string name="choose_circle">サークルを選択してください：</string>
+    <string name="button_set_line_width">線幅を設定する</string>
+    <string name="button_set_color">"色を変える "</string>
+    <string name="button_erase">"画像を削除 "</string>
+    <string name="aut_mon">自動マウント</string>
+    <string name="alert_select">続行するにはオプションを選択する必要があります。</string>
+    <string name="color">色</string>
+    <string name="desenhar_circulo">円を描く</string>
+    <string name="erase">削除する</string>
+    <string name="help">ヘルプ</string>
+    <string name="print">ホーム</string>
+    <string name="save">保存する</string>
+    <string name="tamanho_linha">サイズ線</string>
+    <string name="quiser_apagar">" すべてのサークルを含める場合、あなたのikigaiは上のものと似ているはずです。色が気に入らない場合は、アプリケーションのサイドメニューにある[削除]オプションをクリックして、好きなだけ削除してやり直してください。"</string>
+    <string name="mon_ikig">" 色を選択する前に、円を選択する必要があります。この手順はサークルごとに1回だけ実行する必要がありますが、すべてのサークルはIkigaiを検証するように設計する必要があります。"</string>
+    <string name="how_ikigai">あなたのいきがいをマウントするには？</string>
+    <string name="cor_circulo">" 色と円を選択すると、これが画面に表示されます。"</string>
+    <string name="click_ikigai">" アプリケーションのアクティビティバーのサークルアイコンをクリックすると、サークルに色を付けるための色オプションを含むメニューが開きます"</string>
+    <string name="alterar_ikigai">" バーを使って色を変更したり、選択する前に色のプレビューを見ることができます。"</string>
+</resources>

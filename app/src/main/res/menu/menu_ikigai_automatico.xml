@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/help"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_help_outline_black_24dp"
+        android:title="@string/help"/>
+
+    <item
+        android:id="@+id/delete_drawing"
+        android:icon="@drawable/ic_delete_black_24dp"
+        app:showAsAction="ifRoom"
+        android:title="@string/erase"/>
+
+    <item
+        android:id="@+id/save"
+        android:icon="@drawable/ic_save_black_24dp"
+        app:showAsAction="ifRoom"
+        android:title="@string/save"/>
+
+    <item
+        android:id="@+id/print"
+        android:icon="@drawable/ic_print_black_24dp"
+        app:showAsAction="ifRoom"
+        android:title="@string/print"/>
+
+</menu>

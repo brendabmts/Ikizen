@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">IKI ZEN</string>
+    <string name="button_set_color">Escolha a cor</string>
+    <string name="button_set_line_width">Set Line Width</string>
+    <string name="button_erase">Apagar Imagem</string>
+    <string name="ikigai" translatable="false">IKIGAI</string>
+    <string name="initial_msg">"Descubra o seu IKIGAI!"</string>
+    <string name="start">Começar</string>
+    <string name="label_alpha">Alpha</string>
+    <string name="label_red">Vermelho</string>
+    <string name="label_green">Verde</string>
+    <string name="label_blue">Azul</string>
+    <string name="line_imageview_description">Mostra a espessura da linha</string>
+    <string name="message_error_saving">Houve um erro ao salvar a sua imagem</string>
+    <string name="message_erase">Apagar o desenho?</string>
+    <string name="message_saved">Sua imagem pode ser vista no seu aplicativo de fotos ao selecionar a pasta no menu do aplicativo</string>
+    <string name="message_error_printing">Seu dispositivo não suporta impressão</string>
+    <string name="permission_explanation">Para salvar uma imagem, o aplicativo requer permissão para salvar em um repositório externo</string>
+    <string name="title_color_dialog">Escolha a cor</string>
+    <string name="title_line_width_dialog">Escolha uma largura de linha</string>
+    <string name="EN">EN</string>
+    <string name="aut_mon">Montagem automatica</string>
+    <string name="man_mon">Montar IKIGAI manualmente</string>
+    <string name="como_gostaria">" Como você gostaria de montar seu IKIGAI?"</string>
+    <string name="confirm">Confirmar</string>
+    <string name="alert_select">Você deve selecionar uma opção para continuar.</string>
+    <string name="welcome">Bemvindo ao ikigai</string>
+    <string name="initial_help">Ao clicar no botão iniciar, você terá duas opções para montar o seu ikigai. Auto-montagem: onde o próprio aplicativo cria os 4 círculos para você. Montagem manual: onde você pode inserir manualmente cada círculo, escolhendo a cor de cada um. Vamos começar?</string>
+    <string name="entendi">Entendi!</string>
+    <string name="about">Sobre o App</string>
+    <string name="choose_circle">Escolha o circulo:</string>
+    <string name="love">Amor</string>
+    <string name="good">Bom</string>
+    <string name="need">Precisar</string>
+    <string name="pay">Pagar</string>
+    <string name="o_ikigai_app">O aplicativo Ikigai</string>
+    <string name="sob_iki">" O Ikigai App apresenta ao usuário uma maneira simples e rápida de obter seu Ikigai."</string>
+    <string name="mas_o_que_o_ikigai">"Mas o que é IKIGAI?"</string>
+    <string name="sig_ikigai">Ikigai é uma palavra japonesa que significa algo próximo de \ "razão para viver \". Normalmente, uma figura é composta de quatro círculos que têm todas as possibilidades de interseções entre eles</string>
+    <string name="exp_ikigai">"Para obter seu Ikigai, começa-se desenhando os quatro círculos. Uma vez desenhado, você tem que preencher os campos de cada círculo que não tem interseção com os outros. O recheio deve ser assim: - O que você ama? \ "O que o mundo precisa? \" \ "O que você pode ser pago? \" \ "Em que você é bom? \" Uma vez feito isso, a pessoa descobre o que são: - sua missão - sua vocação - sua profissão - sua paixão. Também cabe ao indivíduo preencher esses quatro campos. Note que as intersecções de 3 círculos representam motivos de insatisfação na vida que as pessoas podem ter. Para encontrar a plenitude, eles devem considerar o círculo faltante, dando origem ao seu Ikigai."</string>
+    <string name="version" translatable="false">v1.0.0</string>
+    <string name="help">Ajuda</string>
+    <string name="erase">Apagar</string>
+    <string name="save">Salvar</string>
+    <string name="print">Imprimir</string>
+    <string name="desenhar_circulo">Desenhar Circulo</string>
+    <string name="color">Cores</string>
+    <string name="tamanho_linha">Tamanho da linha</string>
+    <string name="how_ikigai">Como montar seu IKIGAI?</string>
+    <string name="click_ikigai">"Clicar no ícone de círculos na barra de atividades do aplicativo abrirá um menu com opções de cores para colorir seu círculo."</string>
+    <string name="alterar_ikigai">"Você pode alterar a cor usando as barras e pode ver uma prévia da cor antes de selecioná-la."</string>
+    <string name="mon_ikig">"Antes de selecionar a cor, você deve escolher um círculo. Você só deve executar este procedimento uma vez para cada círculo, mas todos os círculos devem ser projetados para validar o Ikigai."</string>
+    <string name="cor_circulo">" Quando você escolhe a cor e o círculo, aparecerá na tela semelhante a isto."</string>
+    <string name="quiser_apagar">" Ao incluir todos os círculos, o seu ikigai deve ser semelhante ao acima. Se você não gostar da cor, poderá excluí-la e refazer quantas vezes quiser clicando na opção Excluir no menu lateral do aplicativo."</string>
+</resources>
